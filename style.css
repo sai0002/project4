@@ -1,0 +1,22 @@
+.box{
+    width:400px;
+    height:535px;
+    padding-left:1%;
+    margin-left: 37%;
+    margin-top:5%;
+    border: 3px solid ;
+}
+.box img{
+    width:80%;
+    height:40%;
+    padding-top: 10px;
+}
+.box .my{
+    width: 1000px;
+    margin: 10px;
+    overflow: hidden;
+}
+.box .my1{
+    width: 300px;
+    margin: auto;
+}
